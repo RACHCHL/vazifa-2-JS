@@ -1,4 +1,4 @@
-alert("Hozir siz uchta son kiritasiz va mae sizga ulardan o'rtanchasini aytaman ")
+alert("Hozir siz uchta son kiritasiz va men sizga ulardan o'rtanchasini aytaman ")
 var a = +prompt("Birinchi sonni kiriting")
 var b = +prompt("Ikkinchi sonni kiriting")
 var c = +prompt("Uchinchi sonni kiriting")
